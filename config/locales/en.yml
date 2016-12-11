@@ -1,0 +1,50 @@
+en:
+  hello: "Hello world"
+  the: "The"
+  by: "by"
+  ruby_slogan: "Ruby on Rails Tutorial"
+  sign_up: "Sign up"
+  book: "book"
+  ruby_on_rails: "Ruby on Rails"
+  confirmation: "Confirmation"
+  form_errors_message: "The form contains "
+  welcome_message: "Welcome to the Sample App!"
+  error: "error"
+  record_not_found: "Record not found"
+  flash:
+    danger:
+      invalid_user: "Invalid user"
+  layouts:
+    footer:
+      about: "About"
+      contact: "Contact"
+      news: "News"
+    header:
+      home: "Home"
+      help: "Help"
+      log_in: "Log in"
+  static_pages:
+    contact:
+      contact_words: "Contact the Ruby on Rails Tutorial about the sample app at the"
+      contact_page: "Contact Page"
+      contact: "Contact"
+    home:
+      hello_words: "Welcome to the Sample App"
+      home_phrase1: "This is the home page for the"
+      home_phrase2: "sample application"
+    help:
+      help: "Help"
+      help_phrase1: "Get help on the Ruby on Rails Tutorial at the"
+      help_phrase2: "To get help on this sample app, see the"
+      help_section: "Rails Tutorial help section"
+    about:
+      about: "About"
+      is_a: "is a"
+      and: "and"
+      about_phrase1: "screencast series"
+      about_phrase2: "to teach web development with"
+      about_phrase3: "This is the sample application for the tutorial"
+  users:
+    new:
+      sign_up_words: "This will be a signup page for new users"
+      create_account: "Create my account"
